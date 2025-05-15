@@ -2,6 +2,23 @@
  * YOUR CODE BELOW *
  ******************/
 
+  const myFirstName = "Adam";
+   const myLastName = "Finnell II";
+    const myFavoriteCeleb = "Kaylee Fleemings";
+     const mySentence = "I, " + myFirstName + myLastName + " likes " + myFavoriteCeleb + " becuase she was a badass in the Walking Dead and wasn't scared of the zombies."; 
+      const myLuckyNum = 13;
+        const myAge= 35;
+         const myHeight = 75;
+          const myFavoriteYear = 2027;
+           const mySum = 5 + 2317 + 36;
+            const myProduct = 232 * 43 / 2 + 4;
+             const myHeightAndAge = myAge + myHeight;
+             
+          
+       
+        
+         
+          
 
 /*********************************************************************************************************************
 
